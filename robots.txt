@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jupitertogel-pro.netlify.app/sitemap.xml
